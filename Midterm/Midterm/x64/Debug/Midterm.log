@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\connor\documents\github\multiplayermidterm_connorbrezina\midterm\midterm\main.cpp(284): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+  Midterm.vcxproj -> C:\Users\Connor\Documents\GitHub\MultiplayerMidterm_ConnorBrezina\Midterm\x64\Debug\Midterm.exe
+  Midterm.vcxproj -> C:\Users\Connor\Documents\GitHub\MultiplayerMidterm_ConnorBrezina\Midterm\x64\Debug\Midterm.pdb (Partial PDB)
